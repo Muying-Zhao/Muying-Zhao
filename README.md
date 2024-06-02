@@ -28,8 +28,7 @@
 
 - 🌱 I’m currently learning:
   [![V8](https://img.shields.io/badge/-V8-3DDC84?logo=v8&logoColor=4788F4)]()
-  [![V8](https://img.shields.io/badge/-V8-3DDC84?logo=v8&logoColor=4788F4)]()
-[![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)]()
+  [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)]()
 
 ### My Skill Set
 <table><tr><td valign="top" width="50%">
