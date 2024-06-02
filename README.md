@@ -32,9 +32,7 @@
 [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)]()
 
 ### My Skill Set
-<table><tr><td valign="top" width="33%">
-
-
+<table><tr><td valign="top" width="50%">
 
 #### Frontend
 <div align="center">
@@ -51,7 +49,7 @@
 </div>
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="50%">
 
 #### Backend
 <div align="center">
@@ -59,7 +57,3 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
 </div>
-
-</td>
-<td valign="top" width="33%">
-
