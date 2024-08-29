@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="./beautiful.css">
 
-### _欢迎来到炑焽的主页 👋, I'm Zhao._
+### _欢迎来到炑焽的主页 👋, I'm MuYing
 
 我热衷于讨论最新的技术潮流 ⚡ 始终保持求知若渴 ⚡ 谦逊求索 ⚡ 欢迎在此与我交流分享。
 
@@ -33,14 +33,12 @@
 ### My Skill Set
 <table><tr><td valign="top" width="50%">
 
-#### Frontend
+#### Frontend（前端）
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />
-
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
@@ -50,7 +48,7 @@
 </td>
 <td valign="top" width="50%">
 
-#### Backend
+#### Backend（后端）
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />
