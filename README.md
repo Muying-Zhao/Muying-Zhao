@@ -4,45 +4,45 @@
 
 我热衷于讨论最新的技术潮流 ⚡ 始终保持求知若渴 ⚡ 谦逊求索 ⚡ 欢迎在此与我交流分享。
 
-[![QQ 邮箱](https://img.shields.io/badge/-163%20Mail-FC1F1F?style=plastic&link=mailto:find_onepiece@163.com)]()
-[![gmail 邮箱](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)]()
-[![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)]()
+[![网易 邮箱](http://118.178.232.152:8001/bms-blog/163mail.svg)]()
+[![gmail 邮箱](http://118.178.232.152:8001/bms-blog/gmail.svg)]()
+[![WeChat](http://118.178.232.152:8001/bms-blog/wechat.svg)]()
 
 - 🚀 I use daily:
-  [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)]()
-  [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)]()
-  [![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)]()
-  [![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)]()
-  [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)]()
-  [![Shell](https://img.shields.io/badge/-Shell-4EC422?logo=Shell&logoColor=FF7043)]()
-  [![Nginx](https://img.shields.io/badge/-Nginx-F6C915?logo=nginx&logoColor=029137)]()
-  [![Webpack](https://img.shields.io/badge/-webpack-2B3A42?logo=webpack&logoColor=75AFCC)]()
-  [![NPM](https://img.shields.io/badge/-NPM-2875E3?logo=npm&logoColor=029137)]()
-  [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)]()
+  [![HTML5](http://118.178.232.152:8001/bms-blog/html5.svg)]()
+  [![CSS3](http://118.178.232.152:8001/bms-blog/css3.svg)]()
+  [![JavaScript](http://118.178.232.152:8001/bms-blog/javascript.svg)]()
+  [![Vue](http://118.178.232.152:8001/bms-blog/vuejs.svg)]()
+  [![Git](http://118.178.232.152:8001/bms-blog/git.svg)]()
+  [![Shell](http://118.178.232.152:8001/bms-blog/shell.svg)]()
+  [![Nginx](http://118.178.232.152:8001/bms-blog/nginx.svg)]()
+  [![Webpack](http://118.178.232.152:8001/bms-blog/webpack.svg)]()
+  [![NPM](http://118.178.232.152:8001/bms-blog/npm.svg)]()
+  [![React Native](http://118.178.232.152:8001/bms-blog/react_native.svg)]()
   
 - 💻  I work using:
-  [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)]()
-  [![Gitee](https://img.shields.io/badge/-Gitee-A80025?logo=gitee&logoColor=F16061)]()
-  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)]()
-  [![Linux](https://img.shields.io/badge/-Linux-F16061?logo=linux&logoColor=000)]()
+  [![VS Code](http://118.178.232.152:8001/bms-blog/vscode.svg)]()
+  [![Gitee](http://118.178.232.152:8001/bms-blog/gitee.svg)]()
+  [![GitHub](http://118.178.232.152:8001/bms-blog/github.svg)]()
+  [![Linux](http://118.178.232.152:8001/bms-blog/linux.svg)]()
 
 - 🌱 I’m currently learning:
-  [![V8](https://img.shields.io/badge/-V8-3DDC84?logo=v8&logoColor=4788F4)]()
-  [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)]()
+  [![V8](http://118.178.232.152:8001/bms-blog/v8.svg)]()
+  [![React Native](http://118.178.232.152:8001/bms-blog/react_native.svg)]()
 
 ### My Skill Set
 <table><tr><td valign="top" width="50%">
 
 #### Frontend（前端）
 <div align="center">
-<img style="margin: 10px" src="http://118.178.232.152:8001/assets/git_svg/js_icon.svg" alt="JavaScript" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+<img style="margin: 10px" src="http://118.178.232.152:8001/bms-blog/js_logo.svg" alt="JavaScript" height="50" />
+<img style="margin: 10px" src="http://118.178.232.152:8001/bms-blog/vuejs_logo.svg" alt="Vue.js" height="50" />
+<img style="margin: 10px" src="http://118.178.232.152:8001/bms-blog/react_logo.svg" alt="React" height="50" />
+<img style="margin: 10px" src="http://118.178.232.152:8001/bms-blog/webpack_logo.svg" alt="Webpack" height="50" />
+<img style="margin: 10px" src="http://118.178.232.152:8001/bms-blog/sass_logo.svg" alt="Sass" height="50" />
+<img style="margin: 10px" src="http://118.178.232.152:8001/bms-blog/bootstrap_logo.svg" alt="Bootstrap" height="50" />
+<img style="margin: 10px" src="http://118.178.232.152:8001/bms-blog/css_logo.svg" alt="CSS3" height="50" />
+<img style="margin: 10px" src="http://118.178.232.152:8001/bms-blog/html_logo.svg" alt="HTML5" height="50" />
 </div>
 
 </td>
@@ -50,7 +50,7 @@
 
 #### Backend（后端）
 <div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
+<img style="margin: 10px" src="http://118.178.232.152:8001/bms-blog/linux_logo.svg" alt="Linux" height="50" />
+<img style="margin: 10px" src="http://118.178.232.152:8001/bms-blog/nginx_logo.svg" alt="Nginx" height="50" />
+<img style="margin: 10px" src="http://118.178.232.152:8001/bms-blog/node_logo.svg" alt="Node.js" height="50" />
 </div>
