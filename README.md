@@ -50,7 +50,7 @@
 
 #### Backend（后端）
 <div align="center">
-<img style="margin: 10px" src="http://118.178.232.152:8001/bms-blog/linux_logo.svg" alt="Linux" height="50" />
+<img style="margin: 10px" src="http://118.178.232.152:8001/bms-blog/postgresql_logo.svg" alt="Postgresql" height="50" />
 <img style="margin: 10px" src="http://118.178.232.152:8001/bms-blog/nginx_logo.svg" alt="Nginx" height="50" />
 <img style="margin: 10px" src="http://118.178.232.152:8001/bms-blog/node_logo.svg" alt="Node.js" height="50" />
 </div>
