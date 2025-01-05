@@ -6,7 +6,7 @@
 
 [![网易 邮箱](http://118.178.232.152:8001/bms-blog/163mail.svg)]()
 [![gmail 邮箱](http://118.178.232.152:8001/bms-blog/gmail.svg)]()
-[![WeChat](http://118.178.232.152:8001/bms-blog/weichat.svg)](http://118.178.232.152:8001/bms-blog/scxy-search.svg)
+[![WeChat](http://118.178.232.152:8001/bms-blog/wechat.svg)](http://118.178.232.152:8001/bms-blog/scxy-search.svg)
 
 - 🚀 I use daily:
   [![HTML5](http://118.178.232.152:8001/bms-blog/html5.svg)]()
