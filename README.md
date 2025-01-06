@@ -30,7 +30,7 @@
   [![V8](http://118.178.232.152:8001/bms-blog/v8.svg)]()
   [![React Native](http://118.178.232.152:8001/bms-blog/react_native.svg)]()
 
- - ![views since 2025/01/06](https://komarev.com/ghpvc/?username=muying)
+ - visit times: ![views since 2025/01/06](https://komarev.com/ghpvc/?username=muying&color=5865f2)
 ### My Skill Set
 <table><tr><td valign="top" width="50%">
 
