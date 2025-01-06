@@ -30,10 +30,6 @@
   [![V8](http://118.178.232.152:8001/bms-blog/v8.svg)]()
   [![React Native](http://118.178.232.152:8001/bms-blog/react_native.svg)]()
 
-<script src="https://cdn1.lncld.net/static/js/av-mini-0.6.10.js"></script>
-    <script src="http://jerry-cdn.b0.upaiyun.com/hit-kounter/hit-kounter-lc-0.2.0.js"></script>
-    <span data-hk-page="current"> - </span>
-
 ### My Skill Set
 <table><tr><td valign="top" width="50%">
 
